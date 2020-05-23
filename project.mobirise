@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Oktató vagy?",
-    "currentPage": "page1.html",
+    "currentPage": "oktato-vagy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -198,7 +198,7 @@
         }
       ]
     },
-    "page1.html": {
+    "oktato-vagy.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Oktató vagy?",
